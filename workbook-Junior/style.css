@@ -1,0 +1,27 @@
+.body{
+    background: #000;
+    color: #fff;
+    margin: 0%;  
+    display: flex;
+    justify-content: center;
+}
+
+#brand{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    color: #fff;
+    padding-top: 35%;
+}
+
+.dateholder{
+    background: red;
+    border: 5px solid red;
+    border-radius: 5px;
+    max-width: 120px;
+
+}
+
+.validator{
+    margin: 0px auto;
+}
